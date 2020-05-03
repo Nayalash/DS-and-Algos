@@ -1,4 +1,4 @@
-# DS-and-Algos
+# DS-and-Algos in Java
 Curation of most common Data Structures and Algorithms Practices and Coding Interview Questions.
 
 # Repository Info
