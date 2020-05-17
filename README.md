@@ -3,7 +3,8 @@ Curation of most common Data Structures and Algorithms Practices and Coding Inte
 
 # Repository Info
 
-More Information Soon To Come...
+All Code Is Written in Python...
+Might be available in other languages, email for more info...
 
 # Repository Index
 
