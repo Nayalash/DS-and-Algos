@@ -4,7 +4,7 @@ Curation of most common Data Structures and Algorithms Practices and Coding Inte
 # Repository Info
 
 All Code Is Written in JS mostly...
-Might be available in other languages, email for more info...
+Might be available in other languages -> Coming Soon
 
 # Repository Index
 
